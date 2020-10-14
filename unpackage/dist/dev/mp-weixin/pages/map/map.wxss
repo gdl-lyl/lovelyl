@@ -1,0 +1,44 @@
+
+.content {
+	height: 100px;
+}
+.title {
+	width: 100%;
+}
+.logo {
+	float: left;
+	height: 64px;
+	width: 64px;
+	margin-left: 24px;
+}
+.title-price {
+	float: right;
+	margin-top: 24px;
+	margin-right: 32px;
+}
+.title-one {
+	margin-top: 16px;
+	margin-left: 160px;
+	font-size: 14px;
+}
+.title-two {
+	margin-top: 8px;
+	margin-left: 160px;
+	font-size: 12px;
+}
+.title-time {
+	margin-top: 8px;
+	margin-left: 160px;
+	font-size: 12px;
+}
+.line {
+	background-color: #E5E5EA;
+	height: 1px;
+	margin-top: 8px;
+	width: 90%;
+	margin-left: 5%;
+}
+.footer{
+	margin-bottom: 64px;
+}
+

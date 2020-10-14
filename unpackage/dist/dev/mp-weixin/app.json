@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/example/home",
+    "pages/example/components",
+    "pages/example/js",
+    "pages/example/template",
+    "pages/map/map",
+    "pages/login/login",
+    "pages/wxCenter/wxCenter",
+    "pages/home/home",
+    "pages/index2/index2",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#FF7D9D",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/example/home",
+        "iconPath": "static/tabbar/tab-home.png",
+        "selectedIconPath": "static/tabbar/tab-home-current.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/example/components",
+        "iconPath": "static/tabbar/tab-cate.png",
+        "selectedIconPath": "static/tabbar/tab-cate-current.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/example/js",
+        "iconPath": "static/tabbar/tab-cart.png",
+        "selectedIconPath": "static/tabbar/tab-cart-current.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/example/template",
+        "iconPath": "static/tabbar/tab-user.png",
+        "selectedIconPath": "static/tabbar/tab-user-current.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap9.json"
+}

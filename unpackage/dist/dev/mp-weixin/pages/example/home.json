@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "u-grid": "/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uview-ui/components/u-grid-item/u-grid-item",
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}
